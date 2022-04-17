@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hey 👋, I'm Aron :) 
+
+I've been developing free software since my teens, and when I'm not programming, I'm probably producing free music for you.
+
+Maybe you're stranded here because you're a happy user of my free software, one of my programming students, a developer, or a fan.
+
+If that's the case, please consider buying me a coffee:
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E2C76PG)
+
+Thank you!! ☺️
 
 <!--
 **kyr0/kyr0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
