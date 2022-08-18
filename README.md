@@ -1,5 +1,5 @@
 ### Hey 👋, I'm Aron :) 
-## a software engineer and writer who is interested in music
+#### a software engineer and writer who is interested in music
 
 I’ve been developing [software](https://aron-homberg.de/projects) since my teens (that’s 25+ years now). 
 You can ask me basically anything about web development. 
