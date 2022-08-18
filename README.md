@@ -1,10 +1,15 @@
 ### Hey 👋, I'm Aron :) 
+## a software engineer and writer who is interested in music
 
-I've been [developing open source software](https://aron-homberg.de/projects) since my teens. When I'm not programming, I'm producing [music](https://aron-homberg.de/music). Maybe you're stranded here because you're a happy user of my open source projects, one of my programming students, a developer, producer, or fan.
+I’ve been developing [software](https://aron-homberg.de/projects) since my teens (that’s 25+ years now). 
+You can ask me basically anything about web development. 
+When I’m not programming, I’m probably producing [music](https://aron-homberg.de/music).
 
-If that's the case, please consider buying me a coffee:
+If I was able to help you or if you happen to be a user of my software products or libraries, please consider a small donation:
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E2C76PG)
+
+...as building all this is quite cost intensive in subscription fees, software licenses and tools.
 
 Thank you!! ☺️
 
