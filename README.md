@@ -1,6 +1,6 @@
 ### Hey 👋, I'm Aron :) 
 
-I've been [developing open source software](https://aron-homberg.de/projects) since my teens. When I'm not programming, I'm probably producing [free music](https://aron-homberg.de/music). Maybe you're stranded here because you're a happy user of my open source projects, one of my programming students, a developer, or fan.
+I've been [developing open source software](https://aron-homberg.de/projects) since my teens. When I'm not programming, I'm producing [music](https://aron-homberg.de/music). Maybe you're stranded here because you're a happy user of my open source projects, one of my programming students, a developer, producer, or fan.
 
 If that's the case, please consider buying me a coffee:
 
