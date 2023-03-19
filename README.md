@@ -1,4 +1,4 @@
-### Hey 👋, I'm Aron.
+### Hey 👋, I'm Aron
 #### a freelance software engineer, writer and spare-time music producer
 
 Looking for freelance assistance? You can hire me. [Visit my website](https://aron-homberg.de) to learn more. 
