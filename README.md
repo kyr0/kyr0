@@ -7,6 +7,6 @@ Looking for freelance assistance? You can hire me. [Visit my website](https://ar
 - 🌱 I’m currently learning: NASM, Netwide Assembler, x86, to build lessons for [bootsector.games](https://bootsector.games) 
 - 🤔 I’m looking for help with my new open source mental health app project that I'm working on. Contact me to learn more.
 - 💬 Ask me about anything front-end related, basically :)
-- 📫 How to reach me: [Visit my website](https://aron-homberg.de) 
+- 📫 How to reach me: Just [visit my website](https://aron-homberg.de) 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: If you call me "Sheldon", you're actually 50% correct
