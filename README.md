@@ -12,6 +12,7 @@ Looking for freelance help? You can [hire me](https://aron-homberg.de).
 - 💬 Ask me anything about frontend/web development
 - 😄 Pronouns: he/him
 - 🫶 Recently completed projects:
+  - [kyr0/offline-geocode-city](https://github.com/kyr0/offline-geocode-city) - smallest and fastest offline reverse geocoder for country/city on NPM, in-browser, Node.js, service worker 
   - [bootsector.games](https://bootsector.games) - learning and experimenting with NASM and bootsectors in-browser
   - [milkymilky.rocks](https://milkymilky.rocks) - good old Winamp/Geiss music visualisation - for Mac, Windows, Linux
   - [@jsheaven/perf](https://github.com/jsheaven/perf) - estimate the average runtime and time-complexity (big O notation) of (a)sync algorithms
