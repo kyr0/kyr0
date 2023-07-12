@@ -12,6 +12,7 @@ Looking for freelance help? You can [hire me](https://aron-homberg.de).
 - 💬 Ask me anything about frontend/web development
 - 😄 Pronouns: he/him
 - 🫶 Recently completed projects:
+  - [clientside-search](https://github.com/kyr0/clientside-search) - "Lucene in the browser + Node.js"; highly efficient, isomorphic, full-featured, multilingual text search engine library, providing full-text search, fuzzy matching, document indexing and more;
   - [kyr0/offline-geocode-city](https://github.com/kyr0/offline-geocode-city) - smallest and fastest offline reverse geocoder for country/city on NPM, in-browser, Node.js, service worker 
   - [bootsector.games](https://bootsector.games) - learning and experimenting with NASM and bootsectors in-browser
   - [milkymilky.rocks](https://milkymilky.rocks) - good old Winamp/Geiss music visualisation - for Mac, Windows, Linux
