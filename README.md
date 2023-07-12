@@ -1,5 +1,5 @@
-### Hey 👋, I'm Aron
-#### a freelance software engineer, writer and music producer in my spare time
+### Hi 👋, I'm Aron
+#### ...a seasoned freelance software engineer who also enjoys indulging in writing and producing music during my free time. If you're searching for an expert freelance hand, don't hesitate to hire me.
 
 Looking for freelance help? You can [hire me](https://aron-homberg.de).
 
