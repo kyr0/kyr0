@@ -1,5 +1,5 @@
 ### Hi 👋, I'm Aron
-#### ...a seasoned freelance software engineer and open-source enthusiast who also enjoys indulging in writing, teaching and music production during my free time. If you're searching for an expert freelance hand, don't hesitate to [hire me](https://aron-homberg.de).
+#### ...with 25+ years of experience, I'm a seasoned freelance software engineer and open-source enthusiast who also enjoys indulging in writing, teaching and music production during my free time. If you're searching for an expert freelance hand, don't hesitate to [hire me](https://aron-homberg.de).
 
 - 🔭 I’m currently working on:
   - 🔬 several AI-based PoC's and MVP's *(stealth)* 
