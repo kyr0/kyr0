@@ -6,7 +6,7 @@
   - 🔬 several AI-based PoC's and MVP's *(stealth)* 
   - 🌐 an open source, AI-driven mental health app *(prototype, stealth)* 
   - 🔨 an open source green computing CMS for Astro *(stealth, for now)*.
-- 🏖️ I'll be traveling the world and working 100% remote as a digital nomad from Sept. 2023 on
+- 🏖️ I'm traveling the world and working 100% remote as a digital nomad
 - 🌱 I’m currently studying: LLMs, GPT, vector databases, ensemble AI based time series forecasting, N-HiTS, too: RLHF 
 - 🤔 Looking for great projects to collaborate on? Looking for a JS/TS mentor?
 - 🤖 Drop me a line on Discord! [kyr0#8444](https://discordapp.com/users/kyr0#8444)
