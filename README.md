@@ -1,15 +1,9 @@
 ### Hi 👋, I'm Aron
 
-> ...with 25+ years of experience, I'm a seasoned freelance software engineer and open-source enthusiast who also enjoys indulging in writing, teaching and music production during my free time. If you're searching for an expert freelance hand, don't hesitate to [hire me](https://fluctura.com).
-
-- 🔭 I’m currently working on:
-  - 🔬 several AI-based PoC's and MVP's *(stealth)* 
-  - 🌐 an open source, AI-driven mental health app *(prototype, stealth)* 
-  - 🔨 an open source green computing CMS for Astro *(stealth, for now)*.
-- 🏖️ I'm traveling the world and working 100% remote as a digital nomad
-- 🌱 I’m currently studying: LLMs, GPT, vector databases, ensemble AI based time series forecasting, N-HiTS, too: RLHF 
-- 🤔 Looking for great projects to collaborate on? Looking for a JS/TS mentor?
-- 🤖 Drop me a line on Discord! [kyr0#8444](https://discordapp.com/users/kyr0#8444)
+> ...with 25+ years of experience, I'm a seasoned software engineer and open-source enthusiast who also enjoys indulging in writing, teaching and music production during my free time. If you're searching for an expert freelance hand, don't hesitate to [hire me](https://fluctura.com).
+ 
+- 🌐 I'm engineering open source, AI-driven web apps, libraries and software engineering tools
+- 🔬 I’m currently studying: LLMs, GPT, vector databases, ensemble AI based time series forecasting, N-HiTS, too: RLHF 
 - 💬 Ask me anything about frontend/web development
 - 😄 Pronouns: he/him
 - 🌐 My top recently completed apps/websites:
