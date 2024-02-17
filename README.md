@@ -4,8 +4,6 @@
  
 - 🌐 These days, I'm building AI-driven web apps, libraries and software engineering tools
 - 🔬 I’m into: LLMs, GPTs, vector databases, ensemble AI based time-series forecasting, N-HiTS and RLHF too 
-- 💬 Ask me anything about frontend/web development
-- 😄 Pronouns: he/him
 - 🌐 My top recently completed apps/websites:
   - [bootsector.games](https://bootsector.games) - learning and experimenting with NASM x86 assembly and bootsector game development in-browser; implemented the `INT3` step-debugging instruction in the Rust-based v86 emulator; using `broti-unicode` and 
   - [milkymilky.rocks](https://milkymilky.rocks) - the good old Winamp/Geiss music visualisation app - for Mac, Windows, Linux, using WebGL and shaders, based on Electron
