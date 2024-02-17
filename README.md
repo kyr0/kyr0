@@ -2,8 +2,8 @@
 
 > ...with 25+ years of experience, I'm a seasoned software engineer who also enjoys indulging in writing, teaching and music production during my free time.
  
-- 🌐 I'm engineering open source, AI-driven web apps, libraries and software engineering tools
-- 🔬 I’m currently studying: LLMs, GPT, vector databases, ensemble AI based time series forecasting, N-HiTS, too: RLHF 
+- 🌐 These days, I'm building AI-driven web apps, libraries and software engineering tools
+- 🔬 I’m into: LLMs, GPTs, vector databases, ensemble AI based time-series forecasting, N-HiTS and RLHF too 
 - 💬 Ask me anything about frontend/web development
 - 😄 Pronouns: he/him
 - 🌐 My top recently completed apps/websites:
