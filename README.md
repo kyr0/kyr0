@@ -13,7 +13,7 @@
   - [@jsheaven/simply-persist](https://github.com/jsheaven/simply-persist) - simple, solid CRUD-only client-side storage with session/localStorage persistency
   - [@jsheaven/observed](https://github.com/jsheaven/observed) - explicit, `Proxy`-based reactive pattern implementation for objects of any depth
   - [@jsheaven/validalli](https://github.com/jsheaven/validalli) - functional, well-tested, framework-agnostic (form) validation library based on the composition pattern
-- 🔬 My top novel algorithms and computer science / research projects:
+- 🔬 Novel algorithms and computer science / research projects I've finished:
   - [clientside-search](https://github.com/kyr0/clientside-search) - "Lucene in the browser + Node.js"; highly efficient, isomorphic, full-featured, multilingual text search engine library, providing full-text search, fuzzy matching, document indexing and more
   - [offline-geocode-city](https://github.com/kyr0/offline-geocode-city) - smallest and fastest offline reverse geocoder for country/city on NPM, in-browser, Node.js, service worker, using S2 cell geometry
   - [@jsheaven/perf](https://github.com/jsheaven/perf) - an algorithm to estimate the average runtime and time-complexity (big O notation) of (a)sync algorithms in JavaScript/TypeScript projects
