@@ -13,8 +13,11 @@
   - [@jsheaven/simply-persist](https://github.com/jsheaven/simply-persist) - simple, solid CRUD-only client-side storage with session/localStorage persistency
   - [@jsheaven/observed](https://github.com/jsheaven/observed) - explicit, `Proxy`-based reactive pattern implementation for objects of any depth
   - [@jsheaven/validalli](https://github.com/jsheaven/validalli) - functional, well-tested, framework-agnostic (form) validation library based on the composition pattern
-  - [@kyr0/vanil](https://github.com/kyr0/vanil) - static website builder, closely resembling Astro.build features (reimplemented Astro.build for educational purposes)
-  - [@sprintype-org/springtype](https://github.com/springtype-org/springtype) - a 4k nano-framework with a Virtual DOM implementation and React-like features (reimplemented React for educational purposes)
+- ⚒️ Re-implemented for educational purposes: ("True knowledge lies in creation")
+  - [vanil](https://github.com/kyr0/vanil) - static website builder like [Astro.build](https://astro.build), closely resembling Astro.build features 
+  - [@sprintype-org/springtype](https://github.com/springtype-org/springtype) - a 4k nano-framework with a Virtual DOM implementation and React-like features
+  - [nes-ui-react](https://github.com/kyr0/nes-ui-react) - a SASS/SCSS design framework for an 8-bit UI reminisence look and feel, re-implemented the patterns of prominent UI frameworks
+  - [Extanium2](https://github.com/kyr0/Extanium2) - open-source re-implementation of ExtJS 4 
 - 🔬 Novel algorithms and computer science / research projects I've finished:
   - [clientside-search](https://github.com/kyr0/clientside-search) - "Lucene in the browser + Node.js"; highly efficient, isomorphic, full-featured, multilingual text search engine library, providing full-text search, fuzzy matching, document indexing and more
   - [offline-geocode-city](https://github.com/kyr0/offline-geocode-city) - smallest and fastest offline reverse geocoder for country/city on NPM, in-browser, Node.js, service worker, using S2 cell geometry
