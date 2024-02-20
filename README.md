@@ -6,7 +6,6 @@
 - 🔬 I’m into: LLMs, GPTs, vector databases, ensemble AI based time-series forecasting, N-HiTS and RLHF 
 - 🌟 My top recently completed apps/websites:
   - [bootsector.games](https://bootsector.games) - learning and experimenting with NASM x86 assembly and bootsector game development in-browser; implemented the `INT3` step-debugging instruction in the Rust-based v86 emulator; using `broti-unicode` and 
-  - [milkymilky.rocks](https://milkymilky.rocks) - the good old Winamp/Geiss music visualisation app - for Mac, Windows, Linux, using WebGL and shaders, based on Electron
 - 📚 My top completed JavaScript/TypeScript libraries/frameworks/developer tools:
   - [@jsheaven/easybuild](https://github.com/jsheaven/easybuild) - `esbuild` based, super-fast and easy IIFE, ESM and CJS bundler for JS and TS; primarily for libraries, API- and CLI projects
   - [@jsheaven/create-from-git](https://github.com/jsheaven/create-from-git) - scaffolds a new project using `git checkout` and smart, in-file string replacements. Comes with an API and CLI: `npx create-from-git`. Runs on Mac, Windows and Linux.
@@ -20,7 +19,8 @@
   - [brotli-unicode](https://github.com/kyr0/brotli-unicode) - a novel algorithm for encoding/decoding and character level compression/decompression with character-level compression rates of >500%. The compressed data is copy-pasteable without data loss
   - [base-unicode](https://github.com/kyr0/base-unicode) - a novel algorithm for encoding/decoding in a Unicode symbol plane that makes use of printable characters of all kinds of languages; this allows for thousands of symbols to be used instead of only 64 like in base64
 - ⚒️ Re-implemented for educational purposes ("True knowledge lies in creation")
-  - [vanil](https://github.com/kyr0/vanil) - static website builder like [Astro.build](https://astro.build), closely resembling Astro.build features 
-  - [@sprintype-org/springtype](https://github.com/springtype-org/springtype) - a 4k nano-framework with a Virtual DOM implementation and React-like features
-  - [nes-ui-react](https://github.com/kyr0/nes-ui-react) - a SASS/SCSS design framework for an 8-bit UI reminisence look and feel, re-implemented the patterns of prominent UI frameworks
+  - [milkymilky.rocks](https://milkymilky.rocks) - the good old Winamp/Geiss music visualisation app - for Mac, Windows, Linux, using WebGL and shaders, based on Electron; ...as I wanted to understand WebGL better
+  - [vanil](https://github.com/kyr0/vanil) - static website builder like [Astro.build](https://astro.build), Next.js and Gatsby
+  - [@sprintype-org/springtype](https://github.com/springtype-org/springtype) - a 4k nano-framework with a Virtual DOM implementation and React-like features; [Colivery](https://github.com/colivery) is built with it
+  - [nes-ui-react](https://github.com/kyr0/nes-ui-react) - a SASS/SCSS design framework for an 8-bit UI reminisence look and feel, re-implemented the patterns of prominent UI frameworks; [bootsector.games](https://bootsector.games) is built with it
   - [Extanium2](https://github.com/kyr0/Extanium2) - open-source re-implementation of ExtJS 4 
