@@ -19,7 +19,7 @@
   - [brotli-unicode](https://github.com/kyr0/brotli-unicode) - a novel algorithm for encoding/decoding and character level compression/decompression with character-level compression rates of >500%. The compressed data is copy-pasteable without data loss
   - [base-unicode](https://github.com/kyr0/base-unicode) - a novel algorithm for encoding/decoding in a Unicode symbol plane that makes use of printable characters of all kinds of languages; this allows for thousands of symbols to be used instead of only 64 like in base64
 - ⚒️ Re-implemented for educational purposes ("True knowledge lies in creation")
-  - [milkymilky.rocks](https://milkymilky.rocks) - the good old Winamp/Geiss music visualisation app - for Mac, Windows, Linux, using WebGL and shaders, based on Electron; ...as I wanted to understand WebGL better
+  - [milkymilky.rocks](https://milkymilky.rocks) - the good old Winamp/Geiss music visualisation app - for Mac, Windows, Linux, using WebGL and shaders, based on Electron; ...as I wanted to understand WebGL shaders and sample-based audio DSP better
   - [vanil](https://github.com/kyr0/vanil) - static website builder like [Astro.build](https://astro.build), Next.js and Gatsby
   - [@sprintype-org/springtype](https://github.com/springtype-org/springtype) - a 4k nano-framework with a Virtual DOM implementation and React-like features; [Colivery](https://github.com/colivery) is built with it
   - [nes-ui-react](https://github.com/kyr0/nes-ui-react) - a SASS/SCSS design framework for an 8-bit UI reminisence look and feel, re-implemented the patterns of prominent UI frameworks; [bootsector.games](https://bootsector.games) is built with it
