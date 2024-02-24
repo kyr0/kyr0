@@ -5,7 +5,7 @@
 - 🛠️ These days, I'm building AI-driven web apps, libraries and software engineering tools
 - 🔬 I’m into: LLMs, GPTs, vector databases, ensemble AI based time-series forecasting, N-HiTS and RLHF 
 - 🌟 My top recently completed apps/websites:
-  - [bootsector.games](https://bootsector.games) - learning and experimenting with NASM x86 assembly and bootsector game development in-browser; implemented the `INT3` step-debugging instruction in the Rust-based v86 emulator; using `broti-unicode` and 
+  - [bootsector.games](https://bootsector.games) - learning and experimenting with NASM x86 assembly and bootsector game development in-browser; implemented the `INT3` step-debugging instruction in the Rust-based v86 emulator; it's also using `broti-unicode` and `nes-ui-react`
 - 📚 My top completed JavaScript/TypeScript libraries/frameworks/developer tools:
   - [@jsheaven/easybuild](https://github.com/jsheaven/easybuild) - `esbuild` based, super-fast and easy IIFE, ESM and CJS bundler for JS and TS; primarily for libraries, API- and CLI projects
   - [@jsheaven/create-from-git](https://github.com/jsheaven/create-from-git) - scaffolds a new project using `git checkout` and smart, in-file string replacements. Comes with an API and CLI: `npx create-from-git`. Runs on Mac, Windows and Linux.
