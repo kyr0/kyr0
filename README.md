@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Aron
 
-> ...with 25+ years of experience, I'm a seasoned software engineer who also enjoys indulging in writing, teaching and music production during my free time.
+> ...with 20+ years of experience, I'm a seasoned software engineer who also enjoys indulging in writing, teaching and music production during my free time.
  
 - 🛠️ These days, I'm building AI-driven web apps, libraries and software engineering tools
 - 🔬 I’m into: LLMs, GPTs, vector databases, ensemble AI based time-series forecasting, N-HiTS and RLHF 
