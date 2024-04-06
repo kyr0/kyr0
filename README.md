@@ -13,7 +13,7 @@
   - [base-unicode](https://github.com/kyr0/base-unicode) - a novel algorithm for encoding/decoding in a Unicode symbol plane that makes use of printable characters of all kinds of languages; this allows for thousands of symbols to be used instead of only 64 like in base64
 - 🌟 Recently completed apps/websites:
   - [bootsector.games](https://bootsector.games) - learning and experimenting with NASM x86 assembly and bootsector game development in-browser; implemented the `INT3` step-debugging instruction in the Rust-based v86   - 
-  - [milkymilky.rpcks](https://milkymilky.rocks) - WinAmp style, shader based music visualization, rendered on the GPU wie WebGL/WebGPU in Electron
+  - [milkymilky.rocks](https://milkymilky.rocks) - WinAmp style, shader based music visualization, rendered on the GPU wie WebGL/WebGPU in Electron
 - 📚 My top completed JavaScript/TypeScript libraries/frameworks/developer tools:
   - [@jsheaven/easybuild](https://github.com/jsheaven/easybuild) - `esbuild` based, super-fast and easy IIFE, ESM and CJS bundler for JS and TS; primarily for libraries, API- and CLI projects
   - [@jsheaven/create-from-git](https://github.com/jsheaven/create-from-git) - scaffolds a new project using `git checkout` and smart, in-file string replacements. Comes with an API and CLI: `npx create-from-git`. Runs on Mac, Windows and Linux.
