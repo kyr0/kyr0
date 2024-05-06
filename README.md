@@ -3,6 +3,8 @@
 > ...with 20+ years of experience, I'm a seasoned software engineer who also enjoys indulging in writing, teaching and music production during my free time.
  
 - 🛠️ These days, I'm building AI-driven web apps, libraries and software engineering tools
+    - [FTR: KI-Tools](https://github.com/kyr0/ftr-ki-tools) - Browser extension that offers editors and professionals integrated tools for content management, translation, summarization, and proofreading, enhanced with commercial and open-source AI models to improve productivity and manage costs.
+    - [HYOBAN](https://hyoban.ai) - Up to 98% of all consumers trust online reviews. HYOBAN's AI optimizes the online reputation of it's clients and puts them almost automatically on the path to success.
 - 🔬 I’m into: LLMs, GPTs, vector databases, ensemble AI based time-series forecasting, N-HiTS and RLHF 
 - 🔬 Novel algorithms and computer science / research projects I've finished:
   - [vectorstore](https://github.com/kyr0/vectorstore/tree/main) - Local, cost-free vector store for text embeddings and similarity search in-browser and Node.js.
