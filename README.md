@@ -3,7 +3,7 @@
 > ...with 20+ years of experience, I'm a seasoned software engineer who also enjoys indulging in writing, teaching and music production during my free time.
  
 - 🛠️ These days, I'm building AI-driven web apps, libraries and software engineering tools
-    - [RedakTool](https://github.com/kyr0/redaktool) - Browser extension that offers integrated AI tools for content extraction, transcription, translation, summarization, fact-checking, and editing, all bundled into one product. It supports all commercial, open-source, and in-house operated AI models. All prompts are free and editable. Goals: Highest quality standards. Even better productivity. Maximum cost control.
+    - [RedakTool](https://github.com/kyr0/redaktool) - Browser extension for editors and professionals engaged in text-related research, writing, and evaluation tasks. This tool serves as a comprehensive "AI toolbox" enabling direct interaction with content on any website for extraction, translation, summarization, re-phrasing and more.
     - [HYOBAN](https://hyoban.ai) - Up to 98% of all consumers trust online reviews. HYOBAN's AI optimizes the online reputation of it's clients and puts them almost automatically on the path to success.
 - 🔬 I’m into: LLMs, GPTs, vector databases, ensemble AI based time-series forecasting, N-HiTS and RLHF 
 - 🔬 Novel algorithms and computer science / research projects I've finished:
