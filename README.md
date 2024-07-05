@@ -4,7 +4,7 @@
  
 - 🛠️ These days, I'm building AI-driven web apps, libraries and open source software engineering tools
     - [RedakTool](https://github.com/kyr0/redaktool) - Browser extension for editors and professionals engaged in text-related research, writing, and evaluation tasks. This tool serves as a comprehensive "AI toolbox" enabling direct interaction with content on any website for extraction, translation, summarization, re-phrasing and more.
-- 🔬 I’m into: LLMs, GPTs, vector databases, ensemble AI based time-series forecasting, N-HiTS and RLHF 
+- 🔬 I’m into: NLP, LLMs, GPTs, RLHF, vector databases and "classic" search/ranking/scoring algorithms
 - 🔬 Novel algorithms and computer science / research projects I'm working on:
   - [vectorstore](https://github.com/kyr0/vectorstore/tree/main) - Local, cost-free vector store for text embeddings and similarity search in-browser and Node.js.
   - [clientside-search](https://github.com/kyr0/clientside-search) - "Lucene in the browser + Node.js"; highly efficient, isomorphic, full-featured, multilingual text search engine library, providing full-text search, fuzzy matching, document indexing and more
