@@ -3,10 +3,10 @@
 > ...with 20+ years of experience, I'm a seasoned software engineer who also enjoys indulging in writing, teaching and music production during my free time.
  
 - 🛠️ These days, I'm building AI-driven web apps, libraries and open source software engineering tools
-    - [RedakTool](https://github.com/kyr0/redaktool) - Browser extension for editors and professionals engaged in text-related research, writing, and evaluation tasks. This tool serves as a 
+    - [RedakTool.ai](https://github.com/kyr0/redaktool) - Browser extension for editors and professionals engaged in text-related research, writing, and evaluation tasks. This tool serves as a 
 - 🛠️ For bread & butter:
     - Freelance clients (NDA)
-    - [HYOBAN](https://hyoban.ai) - HYOBAN is your partner for AI-optimized, individual and professional review management, analytics & competitive monitoring.
+    - [HYOBAN.ai](https://hyoban.ai) - HYOBAN is your partner for AI-optimized, individual and professional review management, analytics & competitive monitoring.
 - 🔬 I’m into: NLP/search algos, LLMs, GPTs, RLHF, vector databases, tokenizers, ASTs, programming languages, and compilers.
 - 🔬 Novel algorithms and computer science / research projects I'm working on:
   - [langdetect-ts](https://github.com/kyr0/langdetect-ts) - Port of Google LangDetect, the state-of-the-art language ngram-based language detection (identification) library to TypeScript. Used in `liquiprompt` and RedakTool.
