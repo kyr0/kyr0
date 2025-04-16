@@ -3,9 +3,11 @@
 > ...with 20+ years of experience, I'm a seasoned software engineer who also enjoys indulging in writing, teaching and music production during my free time.
  
 - 🛠️ These days, I'm building AI-driven web apps, libraries and open source software engineering tools
-    - [RedakTool.ai](https://github.com/kyr0/redaktool) - Browser extension for editors and professionals engaged in text-related research, writing, and evaluation tasks. This tool serves as a 
+    - [RedakTool.ai](https://github.com/kyr0/redaktool) - Browser extension for editors and professionals engaged in text-related research, writing, and evaluation tasks. This tool serves as a
+    - [Ringbuf.js](https://github.com/padenot/ringbuf.js) - TypeScript port and JIT optimizations -- wait-free thread-safe single-consumer single-producer ring buffer using SharedArrayBuffer
 - 🛠️ For bread & butter:
-    - Freelance clients (NDA)
+    - Freelance clients, AI research projects (NDA)
+    - [NeuraForge.de](https://neuraforge.de) - AI for Deepfake Detection 
     - [HYOBAN.ai](https://hyoban.ai) - HYOBAN is your partner for AI-optimized, individual and professional review management, analytics & competitive monitoring.
 - 🔬 I’m into: NLP/search algos, LLMs, GPTs, RLHF, vector databases, tokenizers, ASTs, programming languages, and compilers.
 - 🔬 Novel algorithms and computer science / research projects I'm working on:
