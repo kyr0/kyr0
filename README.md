@@ -9,7 +9,7 @@
     - Freelance clients, AI research projects (NDA)
     - [NeuraForge.de](https://neuraforge.de) - AI for Deepfake Detection 
     - [HYOBAN.ai](https://hyoban.ai) - HYOBAN is your partner for AI-optimized, individual and professional review management, analytics & competitive monitoring.
-- 🔬 I’m into: NLP/search algos, LLMs, GPTs, RLHF, GRPO, vector databases, tokenizers, ASTs, programming languages, high performance web tech (WebAssembly, SIMD, WebGPU & co.) and compilers.
+- 🔬 I’m into: NLP/search algos, LLMs, GPTs, RLHF, GRPO, vector databases, tokenizers, ASTs, programming languages, high performance web tech (WebAssembly, SIMD, WebGPU, JIT optimization & co.) and compilers.
 - 🔬 Novel algorithms and computer science / research projects I'm working on:
   - [langdetect-ts](https://github.com/kyr0/langdetect-ts) - Port of Google LangDetect, the state-of-the-art language ngram-based language detection (identification) library to TypeScript. Used in `liquiprompt` and RedakTool.
   - [fast-dotproduct](https://github.com/kyr0/fast-dotproduct) - Aims to be the fastest dot product calculation library for in-browser use. Backbone of RedakTool's vectorstore.
