@@ -33,7 +33,8 @@
   - [@jsheaven/observed](https://github.com/jsheaven/observed) - explicit, `Proxy`-based reactive pattern implementation for objects of any depth
   - [@jsheaven/validalli](https://github.com/jsheaven/validalli) - functional, well-tested, framework-agnostic (form) validation library based on the composition pattern
 - ⚒️ Re-implemented for educational purposes ("True knowledge lies in creation")
-  - [vanil](https://github.com/kyr0/vanil) - static website builder similar to [Astro.build](https://astro.build), Next.js and Gatsby
+  - [defuss](https://github.com/kyr0/defuss) - a better React // in fusion and harmony with a lightwight jQuery-like API; full SSR, web-component support; integrated with Astro.build and Vite
+  - [vanil](https://github.com/kyr0/vanil) - static website builder similar to [Astro.build](https://astro.build), Next.js and Gatsby (archived; Astro.build improved alot and suits my needs these days)
   - [PCemOnMac/PCemV17macOS](https://github.com/PCemOnMac/PCemV17macOS) - ported PCem, an emulator for old computers, to run dated software on DOS, Windows 3.11, Windows 95, Windows 98 to Mac  
   - [@sprintype-org/springtype](https://github.com/springtype-org/springtype) - a 4k nano-framework with a Virtual DOM implementation and React-like features; [Colivery](https://github.com/colivery) is built with it
   - [nes-ui-react](https://github.com/kyr0/nes-ui-react) - a SASS/SCSS design framework for an 8-bit UI reminisence look and feel, re-implemented the patterns of prominent UI frameworks; [bootsector.games](https://bootsector.games) is built with it
