@@ -6,9 +6,10 @@
     - [RedakTool.ai](https://github.com/kyr0/redaktool) - Browser extension for editors and professionals engaged in text-related research, writing, and evaluation tasks. 
     - [Ringbuf.js](https://github.com/padenot/ringbuf.js) - TypeScript port and JIT optimizations -- wait-free thread-safe single-consumer single-producer ring buffer using SharedArrayBuffer. [PR](https://github.com/padenot/ringbuf.js/pull/29)
 - 🛠️ For bread & butter:
-    - [NeuraForge.de](https://neuraforge.de) - AI for Deepfake Detection 
+    - [NeuraForge.de](https://neuraforge.de) - AI for Deepfake Detection - Distinguished Engineer
     - [HYOBAN.ai](https://hyoban.ai) - HYOBAN is your partner for AI-optimized, individual and professional review management, analytics & competitive monitoring.
     - [KI.M](https://faktenimpulse.de/2024/12/11/das-ki-m-kompetenzzentrum-fuer-ki-und-medien-in-bayern/) - Distinguished ML/AI Engineering
+    - An AI-first Mental Health App (stealth mode)
 - 🔬 I’m into: NLP/search algos, LLMs, GPTs, RLHF, GRPO, vector databases, tokenizers, ASTs, programming languages, high performance web tech (WebAssembly, SIMD, WebGPU, JIT optimization & co.) and compilers.
     - Freelance clients, AI research projects (NDA)
 - 🔬 Novel algorithms and computer science / research projects I'm working on:
