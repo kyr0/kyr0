@@ -13,7 +13,7 @@
 - 🔬 Current focus interest: 
     1. Agentic systems, vector databases and their algos
     2. High performance web tech (WebAssembly, SIMD, WebGPU, JIT optimization & co.), including Emscripten, C, Rust-based WebAssembly ports 
-    3. LLMs, GPTs, RLHF, GRPO, QLoRA,
+    3. LLMs, GPTs, RLHF, GRPO, QLoRA, ... (every non-vapor-paper)
     4. ASTs, stack-based executors, DSLs
     5. NLP/search algos, tokenizers, encoders
     6. High performance audio synthesis, routing, sampling, mixing, and analysis algorithms
