@@ -3,13 +3,14 @@
 > ...with 20+ years of experience, I'm a seasoned software engineer who also enjoys indulging in writing, teaching and music production during my free time.
  
 - 🛠️ These days, I'm building AI-driven web apps, libraries and open source software engineering tools
-    - [RedakTool.ai](https://github.com/kyr0/redaktool) - Browser extension for editors and professionals engaged in text-related research, writing, and evaluation tasks. This tool serves as a
-    - [Ringbuf.js](https://github.com/padenot/ringbuf.js) - TypeScript port and JIT optimizations -- wait-free thread-safe single-consumer single-producer ring buffer using SharedArrayBuffer
+    - [RedakTool.ai](https://github.com/kyr0/redaktool) - Browser extension for editors and professionals engaged in text-related research, writing, and evaluation tasks. 
+    - [Ringbuf.js](https://github.com/padenot/ringbuf.js) - TypeScript port and JIT optimizations -- wait-free thread-safe single-consumer single-producer ring buffer using SharedArrayBuffer. [PR](https://github.com/padenot/ringbuf.js/pull/29)
 - 🛠️ For bread & butter:
-    - Freelance clients, AI research projects (NDA)
     - [NeuraForge.de](https://neuraforge.de) - AI for Deepfake Detection 
     - [HYOBAN.ai](https://hyoban.ai) - HYOBAN is your partner for AI-optimized, individual and professional review management, analytics & competitive monitoring.
+    - [KIM](https://faktenimpulse.de/2024/12/11/das-ki-m-kompetenzzentrum-fuer-ki-und-medien-in-bayern/) - Distinguished ML/AI Engineering
 - 🔬 I’m into: NLP/search algos, LLMs, GPTs, RLHF, GRPO, vector databases, tokenizers, ASTs, programming languages, high performance web tech (WebAssembly, SIMD, WebGPU, JIT optimization & co.) and compilers.
+    - Freelance clients, AI research projects (NDA)
 - 🔬 Novel algorithms and computer science / research projects I'm working on:
   - [langdetect-ts](https://github.com/kyr0/langdetect-ts) - Port of Google LangDetect, the state-of-the-art language ngram-based language detection (identification) library to TypeScript. Used in `liquiprompt` and RedakTool.
   - [fast-dotproduct](https://github.com/kyr0/fast-dotproduct) - Aims to be the fastest dot product calculation library for in-browser use. Backbone of RedakTool's vectorstore.
