@@ -10,8 +10,14 @@
     - [HYOBAN.ai](https://hyoban.ai) - HYOBAN is your partner for AI-optimized, individual and professional review management, analytics & competitive monitoring.
     - [KI.M](https://faktenimpulse.de/2024/12/11/das-ki-m-kompetenzzentrum-fuer-ki-und-medien-in-bayern/) - Distinguished ML/AI Engineering
     - AI-first Mental Health App (stealth mode)
-- 🔬 I’m into: NLP/search algos, LLMs, GPTs, RLHF, GRPO, vector databases, tokenizers, ASTs, DSLs, high performance web tech (WebAssembly, SIMD, WebGPU, JIT optimization & co.) and compilers.
-    - Freelance clients, AI research projects (NDA)
+- 🔬 Current focus interest: 
+    1. Agentic systems, vector databases and their algos
+    2. High performance web tech (WebAssembly, SIMD, WebGPU, JIT optimization & co.), including Emscripten, C, Rust-based WebAssembly ports 
+    3. LLMs, GPTs, RLHF, GRPO, QLoRA,
+    4. ASTs, stack-based executors, DSLs
+    5. NLP/search algos, tokenizers, encoders
+    6. High performance audio synthesis, routing, sampling, mixing, and analysis algorithms
+    7. Web frameworks (see my work on [`defuss`](https://github.com/kyr0/defuss), which re-invents the whole frontend web-tech wheel)
 - 🔬 Novel algorithms and computer science / research projects I'm working on:
   - [langdetect-ts](https://github.com/kyr0/langdetect-ts) - Port of Google LangDetect, the state-of-the-art language ngram-based language detection (identification) library to TypeScript. Used in `liquiprompt` and RedakTool.
   - [fast-dotproduct](https://github.com/kyr0/fast-dotproduct) - Aims to be the fastest dot product calculation library for in-browser use. Backbone of RedakTool's vectorstore.
