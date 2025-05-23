@@ -8,7 +8,7 @@
 - 🛠️ For bread & butter:
     - [NeuraForge.de](https://neuraforge.de) - AI for Deepfake Detection 
     - [HYOBAN.ai](https://hyoban.ai) - HYOBAN is your partner for AI-optimized, individual and professional review management, analytics & competitive monitoring.
-    - [KIM](https://faktenimpulse.de/2024/12/11/das-ki-m-kompetenzzentrum-fuer-ki-und-medien-in-bayern/) - Distinguished ML/AI Engineering
+    - [KI.M](https://faktenimpulse.de/2024/12/11/das-ki-m-kompetenzzentrum-fuer-ki-und-medien-in-bayern/) - Distinguished ML/AI Engineering
 - 🔬 I’m into: NLP/search algos, LLMs, GPTs, RLHF, GRPO, vector databases, tokenizers, ASTs, programming languages, high performance web tech (WebAssembly, SIMD, WebGPU, JIT optimization & co.) and compilers.
     - Freelance clients, AI research projects (NDA)
 - 🔬 Novel algorithms and computer science / research projects I'm working on:
