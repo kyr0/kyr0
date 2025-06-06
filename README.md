@@ -8,7 +8,7 @@
 - 🛠️ For bread & butter:
     - [NeuraForge.de](https://neuraforge.de) - AI for Deepfake Detection - Distinguished Engineer
     - [HYOBAN.ai](https://hyoban.ai) - HYOBAN is your partner for AI-optimized, individual and professional review management, analytics & competitive monitoring.
-    - [KI.M](https://faktenimpulse.de/2024/12/11/das-ki-m-kompetenzzentrum-fuer-ki-und-medien-in-bayern/](https://medien-bayern.de/ki-kompetenzzentrum-medien/) - Distinguished ML/AI Engineering
+    - [KI.M](https://medien-bayern.de/ki-kompetenzzentrum-medien) - Distinguished ML/AI Engineering
     - AI-first Mental Health App (stealth mode)
 - 🔬 Current focus interest: 
     1. Agentic systems, vector databases and their algos
