@@ -6,7 +6,7 @@
 
 > I value *clarity*, *correctness*, and *elegance* over trends or hype - and prefer deep, focused work over shallow visibility.
 
-If you’re here because something I built helped you - or something I posted inspired you - that’s the best outcome I could hope for.
+> If you’re here because something I built helped you - or something I posted inspired you - that’s the best outcome I could hope for.
  
 - 🛠️ These days, I'm building AI-driven web apps, libraries and open source software engineering tools
     - [RedakTool.ai](https://github.com/kyr0/redaktool) - Browser extension for editors and professionals engaged in text-related research, writing, and evaluation tasks. 
