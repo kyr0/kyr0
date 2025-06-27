@@ -12,13 +12,12 @@
     - [RedakTool.ai](https://github.com/kyr0/redaktool) - Browser extension for editors and professionals engaged in text-related research, writing, and evaluation tasks. 
     - [Ringbuf.js](https://github.com/padenot/ringbuf.js) - TypeScript port and JIT optimizations -- wait-free thread-safe single-consumer single-producer ring buffer using SharedArrayBuffer. [PR](https://github.com/padenot/ringbuf.js/pull/29)
 - 🛠️ For bread & butter:
-    - [NeuraForge.de](https://neuraforge.de) - AI for Deepfake Detection - Distinguished Engineer
-    - [HYOBAN.ai](https://hyoban.ai) - HYOBAN is your partner for AI-optimized, individual and professional review management, analytics & competitive monitoring.
-    - [KI.M](https://medien-bayern.de/ki-kompetenzzentrum-medien) - Distinguished ML/AI Engineering
-    - AI-first Mental Health App (stealth mode)
+    - [NeuraForge.de](https://neuraforge.de) - Reliable deepfake detection.
+    - [KI.M](https://medien-bayern.de/ki-kompetenzzentrum-medien) - Prototyping advanced AI applications for media houses.
+    - [HYOBAN.ai](https://hyoban.ai) - Professional, AI-driven review management, analytics & competitor monitoring.
 - 🔬 Current focus interest: 
-    1. Agentic systems, vector databases and their algos
-    2. High performance web tech (WebAssembly, SIMD, WebGPU, JIT optimization & co.), including Emscripten, C, Rust-based WebAssembly ports 
+    1. Agentic systems, vector databases, NLP algorithms
+    2. High performance web tech (WebAssembly, SIMD, WebGPU, JIT optimization & co.), Rust-based multicore WebAssembly ports (prev. Emscripten/C)
     3. LLMs, GPTs, RLHF, GRPO, QLoRA, ... (every non-vapor-paper)
     4. ASTs, stack-based executors, DSLs
     5. NLP/search algos, tokenizers, encoders
