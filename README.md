@@ -1,6 +1,12 @@
 ### Hi 👋, I'm Aron
 
-> ...with 20+ years of experience, I'm a seasoned software engineer who also enjoys indulging in writing, teaching and music production during my free time.
+> I’m a systems thinker and software engineer with a deep focus on solving hard, often overlooked problems - especially in areas like web development, algorithm design, low-level optimization, language engineering, and applied AI. My work is driven by a simple principle: **build things that are genuinely useful and intellectually honest.**
+
+> Over the years, I’ve created and contributed to a wide range of libraries, tools, and demos that push technical boundaries - from web frameworks, ultra-fast math libraries, and compact NLP systems for hybrid search and language identification, to encoders/decoders, domain-specific languages (DSLs), browser extensions, PWAs, agentic graph-reasoning workflows, and advanced multicore WebAssembly or JIT-optimized solutions for the web platform.
+
+> I value *clarity*, *correctness*, and *elegance* over trends or hype - and prefer deep, focused work over shallow visibility.
+
+If you’re here because something I built helped you - or something I posted inspired you - that’s the best outcome I could hope for.
  
 - 🛠️ These days, I'm building AI-driven web apps, libraries and open source software engineering tools
     - [RedakTool.ai](https://github.com/kyr0/redaktool) - Browser extension for editors and professionals engaged in text-related research, writing, and evaluation tasks. 
