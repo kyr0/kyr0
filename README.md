@@ -2,7 +2,7 @@
 
 > I’m a systems thinker and software engineer with a deep focus on solving hard, often overlooked problems - especially in areas like web development, algorithm design, low-level optimization, language engineering, and applied AI. My work is driven by a simple principle: **build things that are genuinely useful and intellectually honest.**
 
-> Over the years, I’ve created and contributed to a wide range of libraries, tools, and demos that push technical boundaries - from web frameworks, ultra-fast math libraries, and compact NLP systems for hybrid search and language identification, to encoders/decoders, domain-specific languages (DSLs), browser extensions, PWAs, agentic graph-reasoning workflows, and advanced multicore WebAssembly or JIT-optimized solutions for the web platform.
+> Over the years, I’ve created and contributed to a wide range of client projects, OSS libraries, tools, and demos that push technical boundaries - from web frameworks, ultra-fast math libraries, and compact NLP systems for hybrid search and language identification, to encoders/decoders, domain-specific languages (DSLs), browser extensions, PWAs, agentic graph-reasoning workflows, and advanced multicore WebAssembly or JIT-optimized solutions for the web platform.
 
 > I value *clarity*, *correctness*, and *elegance* over trends or hype - and prefer deep, focused work over shallow visibility.
 
