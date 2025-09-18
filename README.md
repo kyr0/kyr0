@@ -12,7 +12,7 @@
     - [RedakTool.ai](https://github.com/kyr0/redaktool) - Browser extension for editors and professionals engaged in text-related research, writing, and evaluation tasks. 
     - [Ringbuf.js](https://github.com/padenot/ringbuf.js) - TypeScript port and JIT optimizations -- wait-free thread-safe single-consumer single-producer ring buffer using SharedArrayBuffer. [PR](https://github.com/padenot/ringbuf.js/pull/29)
 - 🛠️ For bread & butter:
-    - [NeuraForge.de](https://neuraforge.de) - Reliable deepfake detection.
+    - [NeuraMancer.de](https://neuramancer.de) - Reliable deepfake detection.
     - [KI.M](https://medien-bayern.de/ki-kompetenzzentrum-medien) - Prototyping advanced AI applications for media houses.
     - [HYOBAN.ai](https://hyoban.ai) - Professional, AI-driven review management, analytics & competitor monitoring.
 - 🔬 Current focus interest: 
