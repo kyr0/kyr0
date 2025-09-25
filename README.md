@@ -24,6 +24,8 @@
     6. High performance audio synthesis, routing, sampling, mixing, and analysis algorithms
     7. Web frameworks (see my work on [`defuss`](https://github.com/kyr0/defuss), which re-invents the whole frontend web-tech wheel)
 - 🔬 Novel algorithms and computer science / research projects I'm working on:
+  - EXPERIMENTAL. I'm in the process of moving the most useful algorithms under the `defuss` framework umbrella for production use. e.g. see [`defuss/fastmath`](https://github.com/kyr0/defuss/blob/main/packages/fastmath/src/vector.rs)'s vector lib - it provides 25 GFLOP/s vector calculations in-browser (!!!), while `fast-dotproduct` was already faster than JS with about 2 GLOP/s..
+
   - [langdetect-ts](https://github.com/kyr0/langdetect-ts) - Port of Google LangDetect, the state-of-the-art language ngram-based language detection (identification) library to TypeScript. Used in `liquiprompt` and RedakTool.
   - [fast-dotproduct](https://github.com/kyr0/fast-dotproduct) - Aims to be the fastest dot product calculation library for in-browser use. Backbone of RedakTool's vectorstore.
   - [vectorstore](https://github.com/kyr0/vectorstore/) - In-browser, vector store featuring very fast vector indexing, storage, serialization, product quantization and search (exact, kMeans, HNSW) balancing search quality and memory/computational constraints. Backbone of RedakTool's archive and NewsRadar topic following algorithm. Also used in `liquiprompt` for few-shot optimized exemplars.
