@@ -23,6 +23,8 @@
     5. NLP/search algos, tokenizers, encoders
     6. High performance audio synthesis, routing, sampling, mixing, and analysis algorithms
     7. Web frameworks (see my work on [`defuss`](https://github.com/kyr0/defuss), which re-invents the whole frontend web-tech wheel)
+- Some infra-tools for you (systems engineer focus):
+  - Qwen3-Omni MLLM 30B series vLLM Docker Container deployment scripts [qwen3-omni-vllm-docker](https://github.com/kyr0/qwen3-omni-vllm-docker) 
 - 🔬 Novel algorithms and computer science / research projects I'm working on:
   - EXPERIMENTAL. I'm in the process of moving the most useful algorithms under the `defuss` framework umbrella for production use. e.g. see [`defuss/fastmath`](https://github.com/kyr0/defuss/blob/main/packages/fastmath/src/vector.rs)'s vector lib - it provides 25 GFLOP/s vector calculations in-browser (!!!), while `fast-dotproduct` was already faster than JS with about 2 GLOP/s..
 
