@@ -16,7 +16,7 @@
     - [KI.M](https://medien-bayern.de/ki-kompetenzzentrum-medien) - Prototyping advanced AI applications for media houses; building one of the first AI labs in bavaria (local AI, inference, training, ML research) - since early 2025
     - [HYOBAN.ai](https://hyoban.ai) - Professional, AI-driven review management, analytics & competitor monitoring (cloud AI, APIs, ML research, agent engineering, prompt engineering, OpenAI startup partner) - since early 2024
 - 🔬 Current focus interest: 
-    1. Agentic systems, vector databases, NLP algorithms
+    1. (Local) Agentic systems/autonomous bots, neuro-symbolic AI research, vector retrieval/indexing, NLP algorithms in general, small-scale model architecture and training, novel ML algos from scratch - beyond backprop and classic algos - frontier AI architecture research - fusion of SoTA non-AI algos with SoTA AI models
     2. High performance web tech (WebAssembly, SIMD, WebGPU, JIT optimization & co.), Rust-based multicore WebAssembly ports (prev. Emscripten/C)
     3. LLMs, GPTs, RLHF, GRPO, QLoRA, ... (every non-vapor-paper)
     4. ASTs, stack-based executors, DSLs
