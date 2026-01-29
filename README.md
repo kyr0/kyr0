@@ -25,9 +25,11 @@
     7. Web frameworks (see my work on [`defuss`](https://github.com/kyr0/defuss), which re-invents the whole frontend web-tech wheel)
 - Some infra-tools for you (systems engineer focus):
   - Qwen3-Omni MLLM 30B series vLLM Docker Container deployment scripts [qwen3-omni-vllm-docker](https://github.com/kyr0/qwen3-omni-vllm-docker) 
-- 🔬 Novel algorithms and computer science / research projects I'm working on:
-  - EXPERIMENTAL. I'm in the process of moving the most useful algorithms under the `defuss` framework umbrella for production use. e.g. see [`defuss/fastmath`](https://github.com/kyr0/defuss/blob/main/packages/fastmath/src/vector.rs)'s vector lib - it provides 25 GFLOP/s vector calculations in-browser (!!!), while `fast-dotproduct` was already faster than JS with about 2 GLOP/s..
 
+### EXPERIMENTAL
+
+- 🔬 Novel algorithms and computer science / research projects I'm working on:
+  - I'm in the process of moving the most useful algorithms under the `defuss` framework umbrella for production use. e.g. see [`defuss/fastmath`](https://github.com/kyr0/defuss/blob/main/packages/fastmath/src/vector.rs)'s vector lib - it provides 25 GFLOP/s vector calculations in-browser (!!!), while `fast-dotproduct` was already faster than JS with about 2 GLOP/s..
   - [Ringbuf.js](https://github.com/padenot/ringbuf.js) - TypeScript port and JIT optimizations -- wait-free thread-safe single-consumer single-producer ring buffer using SharedArrayBuffer. [PR](https://github.com/padenot/ringbuf.js/pull/29)
   - [RedakTool.ai](https://github.com/kyr0/redaktool) - Browser extension for editors and professionals engaged in text-related research, writing, and evaluation tasks. 
   - [langdetect-ts](https://github.com/kyr0/langdetect-ts) - Port of Google LangDetect, the state-of-the-art language ngram-based language detection (identification) library to TypeScript. Used in `liquiprompt` and RedakTool. [EXPERIMENTAL. In transit to `defuss/langid`](https://github.com/kyr0/defuss/tree/main/packages/langid)
