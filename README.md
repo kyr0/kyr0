@@ -11,6 +11,7 @@
 - 🛠️ These days, I'm building AI-driven web apps, libraries and open source software engineering tools
     - [RedakTool.ai](https://github.com/kyr0/redaktool) - Browser extension for editors and professionals engaged in text-related research, writing, and evaluation tasks. 
     - [Ringbuf.js](https://github.com/padenot/ringbuf.js) - TypeScript port and JIT optimizations -- wait-free thread-safe single-consumer single-producer ring buffer using SharedArrayBuffer. [PR](https://github.com/padenot/ringbuf.js/pull/29)
+    - [easy-erechnung](https://github.com/kyr0/easy-erechnung) - The only cross-platform, fully open-source and AI-supported app to create valid Factur-X/ZuGPFeRD invoices (EU) - currently in beta
 - 🛠️ For bread & butter:
     - [NeuraMancer.de](https://neuramancer.de) - Reliable deepfake detection.
     - [KI.M](https://medien-bayern.de/ki-kompetenzzentrum-medien) - Prototyping advanced AI applications for media houses.
