@@ -10,11 +10,11 @@
  
 - 🛠️ These days, I'm building AI-driven web apps, libraries and open source software engineering tools
     - [defuss](https://github.com/kyr0/defuss) - Frustrated about the complexity in modern web dev, I've created my own vision of how simple, deterministic, small, elegant and extremely performant a synergistic React-, Next.js-, jQuery clone could be -- this is pretty complete and stable now after 6 years in development 
-    - [easy-erechnung](https://github.com/kyr0/easy-erechnung) - The only cross-platform, fully open-source and AI-supported app to create valid Factur-X/ZuGPFeRD invoices (EU) - currently in beta
+    - [easy-erechnung](https://github.com/kyr0/easy-erechnung) - The only cross-platform, fully open-source and AI-supported app to create valid Factur-X/ZuGPFeRD invoices (EU) - currently in beta, 1 year in development
 - 🛠️ For bread & butter:
-    - [NeuraMancer.de](https://neuramancer.de) - Reliable deepfake detection.
-    - [KI.M](https://medien-bayern.de/ki-kompetenzzentrum-medien) - Prototyping advanced AI applications for media houses.
-    - [HYOBAN.ai](https://hyoban.ai) - Professional, AI-driven review management, analytics & competitor monitoring.
+    - [NeuraMancer.de](https://neuramancer.de) - Reliable deepfake detection (local AI, inference, training, ML research, data pipelines, APIs, web apps) - since end of 2024
+    - [KI.M](https://medien-bayern.de/ki-kompetenzzentrum-medien) - Prototyping advanced AI applications for media houses; building one of the first AI labs in bavaria (local AI, inference, training, ML research) - since early 2025
+    - [HYOBAN.ai](https://hyoban.ai) - Professional, AI-driven review management, analytics & competitor monitoring (cloud AI, APIs, ML research, agent engineering, prompt engineering, OpenAI startup partner) - since early 2024
 - 🔬 Current focus interest: 
     1. Agentic systems, vector databases, NLP algorithms
     2. High performance web tech (WebAssembly, SIMD, WebGPU, JIT optimization & co.), Rust-based multicore WebAssembly ports (prev. Emscripten/C)
