@@ -9,8 +9,7 @@
 > If you’re here because something I built helped you - or something I posted inspired you - that’s the best outcome I could hope for.
  
 - 🛠️ These days, I'm building AI-driven web apps, libraries and open source software engineering tools
-    - [RedakTool.ai](https://github.com/kyr0/redaktool) - Browser extension for editors and professionals engaged in text-related research, writing, and evaluation tasks. 
-    - [Ringbuf.js](https://github.com/padenot/ringbuf.js) - TypeScript port and JIT optimizations -- wait-free thread-safe single-consumer single-producer ring buffer using SharedArrayBuffer. [PR](https://github.com/padenot/ringbuf.js/pull/29)
+    - [defuss](https://github.com/kyr0/defuss) - Frustrated about the complexity in modern web dev, I've created my own vision of how simple, deterministic, small, elegant and extremely performant a synergistic React-, Next.js-, jQuery clone could be -- this is pretty complete and stable now after 6 years in development 
     - [easy-erechnung](https://github.com/kyr0/easy-erechnung) - The only cross-platform, fully open-source and AI-supported app to create valid Factur-X/ZuGPFeRD invoices (EU) - currently in beta
 - 🛠️ For bread & butter:
     - [NeuraMancer.de](https://neuramancer.de) - Reliable deepfake detection.
@@ -29,6 +28,8 @@
 - 🔬 Novel algorithms and computer science / research projects I'm working on:
   - EXPERIMENTAL. I'm in the process of moving the most useful algorithms under the `defuss` framework umbrella for production use. e.g. see [`defuss/fastmath`](https://github.com/kyr0/defuss/blob/main/packages/fastmath/src/vector.rs)'s vector lib - it provides 25 GFLOP/s vector calculations in-browser (!!!), while `fast-dotproduct` was already faster than JS with about 2 GLOP/s..
 
+  - [Ringbuf.js](https://github.com/padenot/ringbuf.js) - TypeScript port and JIT optimizations -- wait-free thread-safe single-consumer single-producer ring buffer using SharedArrayBuffer. [PR](https://github.com/padenot/ringbuf.js/pull/29)
+  - [RedakTool.ai](https://github.com/kyr0/redaktool) - Browser extension for editors and professionals engaged in text-related research, writing, and evaluation tasks. 
   - [langdetect-ts](https://github.com/kyr0/langdetect-ts) - Port of Google LangDetect, the state-of-the-art language ngram-based language detection (identification) library to TypeScript. Used in `liquiprompt` and RedakTool. [EXPERIMENTAL. In transit to `defuss/langid`](https://github.com/kyr0/defuss/tree/main/packages/langid)
   - [fast-dotproduct](https://github.com/kyr0/fast-dotproduct) - Aims to be the fastest dot product calculation library for in-browser use. Backbone of RedakTool's vectorstore. [EXPERIMENTAL. In transit to `defuss/fastmath`](https://github.com/kyr0/defuss/tree/main/packages/fastmath)
   - [vectorstore](https://github.com/kyr0/vectorstore/) - In-browser, vector store featuring very fast vector indexing, storage, serialization, product quantization and search (exact, kMeans, HNSW) balancing search quality and memory/computational constraints. Backbone of RedakTool's archive and NewsRadar topic following algorithm. Also used in `liquiprompt` for few-shot optimized exemplars. [EXPERIMENTAL. In transit to `defuss/vectorlite`](https://github.com/kyr0/defuss/tree/main/packages/vectorlite)
