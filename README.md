@@ -8,16 +8,14 @@
 
 > If you’re here because something I built helped you - or something I posted inspired you - that’s the best outcome I could hope for.
  
-- 🛠️ These days, I'm building AI-driven web apps, libraries and open source software engineering tools
+- 🛠️ What I'm working on right now:
     - [Bonsai-Llama-Jev](https://github.com/kyr0/Bonsai-Llama-Jev) - The first multimodal, Jev-like typed decisions inference server that also supports OpenAI compatible API at the same time and performs better than any other benchmarked open Jev-like model as of 2026-09-22
     - [typed-decision-bench](https://github.com/kyr0/typed-decision-bench) - Large typed decision model evaluation benchmark and novel calibration standard (`calibration.json`) for any typed decision inference system, covering 275 distinct use-cases and 27,598 individual decisions for Jev-like open typed decision models.
     - [defuss](https://github.com/kyr0/defuss) - Frustrated about the complexity in modern web dev, I've created my own vision of how simple, deterministic, small, elegant and extremely performant a synergistic React-, Next.js-, jQuery clone could be -- this is pretty complete and stable now after 6 years in development 
     - [easy-erechnung](https://github.com/kyr0/easy-erechnung) - The only cross-platform, fully open-source and AI-supported app to create valid Factur-X/ZuGPFeRD invoices (EU) - currently in beta, 1 year in development
-    - [update-agents-md](https://github.com/kyr0/update-agents-md) - Now that frontier LLMs support context sizes beyond 1M tokens and approach near-perfect recall, we can boost (local maxima) AI-assisted coding/codegen by packing all code into one prompt and let multiple models battle for the best solution, even without IDEs and Claude Code/OpenCode/Codex/Antigravity/Cursor etc. - sounds counter-intuitive, but it's extremely  useful
-    - A **stealth** project that is too dangerous to reveal. [Hint](https://www.linkedin.com/posts/aronhomberg_how-to-crack-a-diamond-or-how-i-unexpectedly-activity-7292827345915101184-4ReG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAALSPsgBQk4N2Bzi2ys34NEmLX22pUgFweY)
 - 🛠️ For bread & butter:
-    - [KI.M](https://medien-bayern.de/ki-kompetenzzentrum-medien) - Prototyping advanced AI applications for media houses; building one of the first AI labs in bavaria (local AI, inference, training, ML research) - since early 2025
-    - [NeuraMancer.de](https://neuramancer.de) - Reliable deepfake detection (local AI, inference, training, ML research, data pipelines, APIs, web apps) - since end of 2024
+    - [KI.M](https://medien-bayern.de/ki-kompetenzzentrum-medien) - Prototyping advanced AI applications for the media industry; building one of the first AI labs in Bavaria (local AI, inference, training, ML research) - since early 2025
+    - [Neuramancer.de](https://neuramancer.de) - Reliable deepfake detection (local AI, inference, training, ML research, data pipelines, APIs, web apps) - since end of 2024
     - [HYOBAN.ai](https://hyoban.ai) - Professional, AI-driven review management, analytics & competitor monitoring (cloud AI, APIs, ML research, agent engineering, prompt engineering, OpenAI startup partner) - since early 2024
 - 🔬 Current focus interest: 
     1. (Local) Agentic systems/autonomous bots, AI research, vector retrieval/indexing, NLP algorithms in general, small-scale model architecture and training, novel ML algos from scratch - fusion of SoTA non-AI algos with tiny local AI models of all kinds
